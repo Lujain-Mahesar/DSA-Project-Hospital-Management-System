@@ -1,0 +1,7 @@
+123;burfen;400.0;200.0;48;headache
+12;panadol;100.0;200.0;141;body pain
+456;Strepsils;70.0;50.0;188;good for throat pain
+999;disprin;80.0;40.0;0;good for aches
+90;rigix;100.0;70.0;0;good for flu
+66;Gaviscon;1000.0;500.0;78;HeartBurn Relief
+19;medico;200.0;150.0;999;skin infection cream

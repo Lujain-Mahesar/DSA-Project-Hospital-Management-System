@@ -1,0 +1,6 @@
+4;656;hdhvhe;27:12:2024;123;
+4;500;take day and night;28:12:2024;90;
+123;570;take medicine on time;28:12:2024;456;
+4;599;take after dinner;28:12:2024;66;
+11;500;take med on time;29:12:2024;999;
+67;500;use daily;30:01:2025;19;

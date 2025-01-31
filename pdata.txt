@@ -1,0 +1,7 @@
+123;ayesha;22;Female;scahal;035656787655
+4;umar;8;Male;sindh;0355626772
+76;huma;19;female;larkana;034565676868
+34;amna;22;Female;larkana;034456576676
+77;Mustafa;16;Male;pakistani chk;034545657676
+11;Lujain;19;Female;Larkana;034543565
+67;Aliza;22;Female;lrk;03456778888
